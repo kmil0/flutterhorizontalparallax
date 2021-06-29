@@ -1,6 +1,6 @@
 # scroll_parallax
 
-A new Flutter project.
+A new Flutter project effect tutorial by Mahmoud Hesham 
 
 ## Getting Started
 
